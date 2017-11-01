@@ -1,4 +1,5 @@
 [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![NPM Published Version][npm-img]][npm] [![OpenTracing 1.0 Enabled][ot-img]][ot-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-node?ref=badge_shield)
 
 # Jaeger Bindings for Javascript OpenTracing API
 
@@ -174,3 +175,6 @@ This allows using Jaeger UI to find the trace by this tag.
 [ot-img]: https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg
 [ot-url]: http://opentracing.io
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-node.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger-client-node?ref=badge_large)
